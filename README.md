@@ -10,7 +10,9 @@ O objetivo desse projeto foi aplicar meus aprendizados em CSS utilizando o Frame
 * HTML5
 * CSS
 * BULMA
-
+## Layout do projeto
+![layout.png](layout/layout.png)
+![layout02.png](layout/layout02.png)
 ### Autor
 
 LinkedIn:https://www.linkedin.com/in/alan-fernandes-03096317b/
