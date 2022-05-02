@@ -2,7 +2,7 @@
 
 Este Projeto foi criado para colocar em prática meus conhecimentos adquiridos sobre HTML5 e CSS3 e BULMA.
 
-O objetivo desse projeto foi aplicar meus aprendizados em CSS utilizando o Framework BULMA para facilitar a estilização da pagina além de tonar mais bonita e responsiva 
+O objetivo desse projeto foi aplicar meus aprendizados em CSS utilizando o Framework BULMA para facilitar a estilização da pagina além de tornar mais bonita e responsiva 
 
 
 ## Tecnologias utilizadas
